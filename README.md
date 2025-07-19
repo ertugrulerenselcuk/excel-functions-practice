@@ -26,11 +26,11 @@ This project demonstrates the use of **common Excel functions** on a real-world 
 
 ## 🔍 Formula Examples and Results
 
-```excel
+excel
 =COUNTA(A:A)
 
 Counts all non-empty cells in the Invoice column.
-
+![COUNTA](screenshots/counta.png)
 📷 Screenshot: screenshots/counta.png
 
 =COUNTIF(H:H, "France") Counts how many rows have Country = France.
