@@ -56,7 +56,7 @@ Quantity is greater than 10
 =CONCATENATE("FRANK", "JOHN", "JESSIE") Returns: FRANKJOHNJESSIE
 
 📷 ![CONCATENATE](screenshots/concat.png)  
-[CONCATENATE v2](screenshots/concat2.png)
+📷 ![CONCATENATE v2](screenshots/concat2.png)
 
 =LEFT(J19, 3) =RIGHT(J20, 5) =RIGHT(LEFT(J24, 11), 2) Extracts specific portions of a string.
 
