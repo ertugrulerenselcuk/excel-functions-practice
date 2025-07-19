@@ -51,7 +51,7 @@ Quantity is greater than 10
 
 =TRIM(" blank ") Removes leading and trailing spaces. Returns: blank
 
-📷 ![TRIM](screenshots/trim.png)  
+📷![TRIM](screenshots/trim.png) 
 
 =CONCATENATE("FRANK", "JOHN", "JESSIE") Returns: FRANKJOHNJESSIE
 
